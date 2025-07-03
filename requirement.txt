@@ -1,3 +1,7 @@
 streamlit==1.31.1
 requests
 snowflake-snowpark-python[pandas]
+
+
+Fix: removed comment line from requirements.txt
+
